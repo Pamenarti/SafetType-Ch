@@ -101,4 +101,4 @@ Paro - [@Pamenarti](https://twitter.com/pamenarti)
 
 Email - [pamenarti@gmail.com](pamenarti@gmail.com)
 
-Project Link: [https://github.com/Pamenarti/dex-contract-bypass](https://github.com/Pamenarti/dex-contract-bypass)
+Project Link: [https://github.com/Pamenarti/SafetType-Ch](https://github.com/Pamenarti/SafetType-Ch)
